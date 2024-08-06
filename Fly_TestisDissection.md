@@ -3,11 +3,14 @@ Last update: 8. 6. 2024 <br>
 (Jongmin Kim, jk2938@cornell.edu)
 
 # General note
-- TBW
-
+- It may be frustrating in the beginning, but with a few hours of practice, you will be able to dissect the testes.
+- Oregon R (wild type, white+) flies, testis sheath color will be yellow. These lines will be easy to identify testes for beginners.
+- If you become very experienced, you can dissect 80~90 testis pairs (without removing accessory glands) per 30 minutes.
+  
 # Material
-- TBW
-  > TBW
+- Fine forceps
+- PBS
+- Slide glass (or concave dissection dish)
 
 # Protocol
 
