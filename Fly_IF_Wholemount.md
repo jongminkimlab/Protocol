@@ -37,7 +37,7 @@ Last updated: 8. 7. 2023
     > - Testes can be stored in PBS at 4C for couple of hours. <br>
     > - For longer storage, it may be better with some buffer with detergent. You can keep the testes in the blocking step for a few days. <br>
 
-3. Replace buffer with the permeabilization solution (0.2% Triton-X PBS), ~500uL.
+3. Replace buffer with the permeabilization solution (0.2% Triton-X PBS), ~500uL for ~30 minutes.
     > I am still not sure if Sodium Deoxycholate permeabilization step is strictly necessary. So skipped here.
 
 4. Block testes for 30 minutes at RT with >200uL PBST (Triton-X 100) 3% BSA. 
