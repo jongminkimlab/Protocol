@@ -11,7 +11,8 @@ Last updated: 8. 7. 2023
 <!--![Tubules before fixation](https://github.com/jongminkmg/Storage/blob/main/Pre-fix_tubules.jpg?raw=true "Tubules before fixation")
 <br> before fixation-->
 
-1. Fix gently dissected testes with 4% formaldehyde in PBS at RT for 15 minutes. 
+1. Fix gently dissected testes with ~500uL 4% formaldehyde in PBS at RT for 15 minutes. 
+    > - Rule of thumb: use at least 10 times fixative volume than the tissue volume. So 500uL should be more than sufficient for fly testes.
     > - I fix them 'mostly' stationary. Put them in 2mL tubes, and shake them to mix once or twice during fixation. <br>
     > - I use 16% methanol-free formaldehyde ampoules. <br>
     > - Opened ampoules can be stored at 4C by sealing tightly with parafilm. Okay for 1~2 months.<br>
@@ -36,7 +37,7 @@ Last updated: 8. 7. 2023
     > - Testes can be stored in PBS at 4C for couple of hours. <br>
     > - For longer storage, it may be better with some buffer with detergent. You can keep the testes in the blocking step for a few days. <br>
 
-3. Replace buffer with the permeabilization solution (0.2% Triton-X PBS).
+3. Replace buffer with the permeabilization solution (0.2% Triton-X PBS), ~500uL.
     > I am still not sure if Sodium Deoxycholate permeabilization step is strictly necessary. So skipped here.
 
 4. Block testes for 30 minutes at RT with >200uL PBST (Triton-X 100) 3% BSA. 
