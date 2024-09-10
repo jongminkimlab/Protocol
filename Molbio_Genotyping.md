@@ -71,5 +71,6 @@ and/or
 |9.  Finish| 	12|	∞	|n/a|
 
 8. Perform agarose gel electrophoresis to check PCR products
+    > 1.5% gel is okay for most applications
 
 <i>to be written (qPCR based genotyping protocol)</i>
