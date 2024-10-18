@@ -21,7 +21,7 @@ Last updated: 10. 17. 2024
  
 3. Leave at room temp for 2-3 minutes
  
-4. Spin at 4C for 15min
+4. Spin at 4C, ~13000G for 15min
  
 5. Transfer aqueous layer to fresh tube.
     > Usually between 2~300uL (supposed to be ~60% of original Trizol vol. but usually less than that especially for tissues).<br><br>
