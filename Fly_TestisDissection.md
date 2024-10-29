@@ -14,7 +14,7 @@ Last update: 8. 6. 2024 <br>
 
 # Protocol
 
-![Drosophila testes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4089415/bin/jove-83-51058-1.jpg?raw=true "Drosophila testes")
+![Drosophila testes](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c1b7/4089415/5c6aaa757e3b/jove-83-51058-1.jpg?raw=true  "Drosophila testes")
 <br>Above image from (Sitaram et al., 2014, JoVE; https://pubmed.ncbi.nlm.nih.gov/24473184/)
 
 1. With my left forceps, grab the thorax. I like to fold its wing so that I can expose the abdomen.
