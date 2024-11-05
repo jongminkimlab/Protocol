@@ -38,7 +38,8 @@ Last updated: 8. 7. 2023
     > - For longer storage, it may be better with some buffer with detergent. You can keep the testes in the blocking step for a few days. <br>
 
 3. Replace buffer with the permeabilization solution (0.2% Triton-X PBS), ~500uL for ~30 minutes.
-    > I am still not sure if Sodium Deoxycholate permeabilization step is strictly necessary. So skipped here.
+    > I am still not sure if Sodium Deoxycholate (NaDOC) permeabilization step is strictly necessary. So skipped here.<br>
+    > If using NaDOC, make fresh. 0.5% NaDOC in 0.2% Triton-X 100 PBST (e.g. 50mg NaDOC in 10mL PBST)
 
 4. Block testes for 30 minutes at RT with >200uL PBST (Triton-X 100) 3% BSA. 
     > Block can be ~10 minutes to overnight (at 4C for O/N)
