@@ -61,6 +61,6 @@ Last updated: 11. 5. 2024
     > - For wholemount, do not use mounting media with DAPI. <br> Nuclei signal is much clearer by staining DNA during wash step. 
 
 9. Mount: use wide bore tips, transfer testes to slide glass.<br> Arrange testes so that they not to overlap with each other. Wick PBST away. 
-<br> Add 10~20uL mounting media. Put 18x18mm or 22x22mm No.1 or No.1.5 coverslip. Seal with nail polish. 
+<br> Add 10~20uL mounting media. Put 18x18mm or 22x22mm No.1.5 coverslip. Seal with nail polish. 
 
 10. Imaging. Try to get 10~20 testes per condition (depending on variability, purpose (publication, quantification, etc)).
