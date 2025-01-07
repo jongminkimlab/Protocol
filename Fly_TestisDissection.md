@@ -40,7 +40,7 @@ Last update: 10. 29. 2024 <br>
 ![Mid-dissection](https://github.com/jongminkimlab/Storage/blob/main/Pr_d09.png?raw=true "Mid-dissection")
 ![Mid-dissection](https://github.com/jongminkimlab/Storage/blob/main/Pr_d10.png?raw=true "Mid-dissection")
 
-7. To separate tests from accessory glands and the ejaculatory duct, I grab a seminal vesicle and take testes.
+7. To separate testes from accessory glands and the ejaculatory duct, I grab a seminal vesicle and take testes.
 ![Mid-dissection](https://github.com/jongminkimlab/Storage/blob/main/Pr_d11.png?raw=true "Mid-dissection")
 ![Mid-dissection](https://github.com/jongminkimlab/Storage/blob/main/Pr_d12.png?raw=true "Mid-dissection")
 ![Mid-dissection](https://github.com/jongminkimlab/Storage/blob/main/Pr_d13.png?raw=true "Mid-dissection")
