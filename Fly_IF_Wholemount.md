@@ -14,7 +14,7 @@ Last updated: 2. 10. 2025
 
 1. Fix gently dissected testes with 4% formaldehyde in PBS at RT for 15 minutes. 
     > - Rule of thumb: use at least 10 times fixative volume than the tissue volume. So 1mL should be more than sufficient for fly testes. <br>
-    > - I dissect testes into 750uL PBS and add 250uL of 16% formaldehyde in PBS to make a final 4% formaldehyde PBS. <br>
+    > - I dissect testes into 500uL PBS and add 500uL of 8% formaldehyde in PBS to make a final 4% formaldehyde PBS. <br>
         **Mix well (careful not to damage testes by pipetting through the pipette tip)**<br>
     > - I fix them 'mostly' stationary. Put them in 2mL tubes, and shake them to mix once or twice during fixation. <br>
     > - I use 16% methanol-free formaldehyde ampoules. <br>
