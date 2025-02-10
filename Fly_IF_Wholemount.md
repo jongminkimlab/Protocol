@@ -1,23 +1,24 @@
 # Material 
 - Freshly fixed fly testes (okay to have accessory glands). 
 - PBST (PBS + 0.05% Triton-X 100)
+- Permeabilization solution (PBS + 0.2% Triton-X 100)
 - PBST BSA (PBST + 3% Bovine Serum Albumin (BSA))
 - Antibodies
  
 # Protocol 
 
-Last updated: 1. 13. 2025
+Last updated: 2. 10. 2025
 
 <!--![Tubules before fixation](https://github.com/jongminkmg/Storage/blob/main/Pre-fix_tubules.jpg?raw=true "Tubules before fixation")
 <br> before fixation-->
 
-1. Fix gently dissected testes with 2% formaldehyde in PBS at RT for 15 minutes. 
+1. Fix gently dissected testes with 4% formaldehyde in PBS at RT for 15 minutes. 
     > - Rule of thumb: use at least 10 times fixative volume than the tissue volume. So 1mL should be more than sufficient for fly testes. <br>
-    > - I dissect testes into 500uL PBS and add 500uL of 4% formaldehyde in PBS to make a final 2% formaldehyde PBS. <br>
+    > - I dissect testes into 750uL PBS and add 250uL of 16% formaldehyde in PBS to make a final 4% formaldehyde PBS. <br>
+        **Mix well (careful not to damage testes by pipetting through the pipette tip)**<br>
     > - I fix them 'mostly' stationary. Put them in 2mL tubes, and shake them to mix once or twice during fixation. <br>
     > - I use 16% methanol-free formaldehyde ampoules. <br>
     > - Opened ampoules can be stored at 4C by sealing tightly with parafilm. Okay for 1~2 months.<br>
-    > - Probably okay to fix with 1% formaldehyde in PBS, but I have not tested
     
 <br><details>
 <summary>CLICK TO OPEN: Note on paraformaldehyde and formaldehyde</summary>
@@ -32,13 +33,10 @@ Last updated: 1. 13. 2025
 
 </details><br>
 
-2. Remove formaldehyde. Wash with PBS - 500mM Tris - PBS -PBS.
-    > - 500mM Tris to quench formaldehyde. Usually okay to skip. <br>
-    > - You can add the 1x volume of 1M Tris directly to quench. <br>
-    > - Testes can be stored in PBS at 4C for couple of hours. <br>
-    > - For longer storage, it may be better with some buffer with detergent. You can keep the testes in the blocking step for a few days. <br>
+2. Remove formaldehyde. Wash with PBST (0.05% Triton-X 100)
+    > - Testes can be stored in PBST at 4C for several days. <br>
 
-3. Replace buffer with the permeabilization solution (0.2% Triton-X PBS), 500~1000uL for ~30 minutes. Do a quick wash (buffer exchange) with PBST (0.05% Triton-X) after permeabilization.
+3. Replace buffer with the 1mL permeabilization solution (0.2% Triton-X PBS), for >30 minutes. Do a quick wash (buffer exchange) with PBST (0.05% Triton-X) after permeabilization.
     > I am still not sure if Sodium Deoxycholate (NaDOC) permeabilization step is strictly necessary. So skipped here.<br>
     > If using NaDOC, make fresh. 0.5% NaDOC in 0.2% Triton-X 100 PBST (e.g. 50mg NaDOC in 10mL PBST)
 
