@@ -16,11 +16,11 @@ from Julia Wucherpfennig, modified by Jongmin Kim. Last updated 3. 17. 2025
 
 | Reagent   | Volume (µL) | Final Concentration | Stock Solution |  
 |-----------|------------|---------------------|----------------|  
-| Tris pH 8 | 2.5        | 10 mM               | 1 M            |  
-| EDTA      | 0.5        | 1 mM                | 0.5 M          |  
-| NaCl      | 1.25       | 25 mM               | 5 M            |  
-| Water     | 245.75     | -                   | -              |  
-| **Total** | **250**    | -                   | -              |  
+| Tris pH 8 | 10        | 10 mM               | 1 M            |  
+| EDTA      | 2        | 1 mM                | 0.5 M          |  
+| NaCl      | 5       | 25 mM               | 5 M            |  
+| Water     | 983     | -                   | -              |  
+| **Total** | **1000**    | -                   | -              |  
 
 ### Protocol  
 1. Add **1 µL of 10 mg/mL Proteinase K** for every **50 µL of squish buffer**.  
