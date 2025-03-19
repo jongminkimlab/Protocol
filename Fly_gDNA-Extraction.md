@@ -26,8 +26,9 @@ from Julia Wucherpfennig, modified by Jongmin Kim. Last updated 3. 17. 2025
 1. Add **1 µL of 10 mg/mL Proteinase K** for every **50 µL of squish buffer**.  
    - Example: 1 fly → 1 µL ProK, 2 flies → 2 µL ProK.  
 2. Squish flies in squish buffer + Proteinase K using a **motorized pestle** or a **P1000 pipette tip**.  
-3. Incubate at **55°C for at least 30 minutes**.  
+3. Incubate at **55°C for at least 30 minutes** or up to several hours.  
 4. Heat inactivate Proteinase K at **95°C for 3 minutes**.  
-5. Spin at **1000 rcf for 5 minutes** to pellet debris.  
-6. Transfer the supernatant to a **fresh Eppendorf tube**.  
-7. Store at **-20°C**.  
+5. Spin at **~10000 rcf for 5 minutes** to pellet debris.  
+6. Transfer the supernatant to a **fresh test tube**.  
+7. Store at **-20°C**.
+8. Use 1~2 µL for a 20 µL PCR reaction
