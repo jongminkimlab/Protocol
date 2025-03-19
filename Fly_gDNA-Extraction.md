@@ -31,4 +31,4 @@ from Julia Wucherpfennig, modified by Jongmin Kim. Last updated 3. 17. 2025
 5. Spin at **~10000 rcf for 5 minutes** to pellet debris.  
 6. Transfer the supernatant to a **fresh test tube**.  
 7. Store at **-20°C**.
-8. Use 1~2 µL for a 20 µL PCR reaction
+8. Use <1 µL for a 20 µL PCR reaction
