@@ -27,7 +27,7 @@ by Jongmin Kim (jk2938@cornell.edu). Last updated 3. 31. 2025
 
 ### 4. Sample Preparation
 - Transfer dissected testes into **1 mL PBS** in a **1.7 mL microcentrifuge tube**.
-- Centrifuge at **>15,000G for >1 minute** to pellet the testes.
+- Centrifuge at **>15,000G for 5 minute** to pellet the testes.
 - Remove as much PBS as possible using a vacuum or pipette.
 - Snap-freeze the pellet in LN2.
 - Store at **-80°C** (or **-20°C for short-term storage**) until use.
