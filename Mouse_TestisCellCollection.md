@@ -20,7 +20,7 @@ Last updated: 4. 28. 2025
 
 3. Transfer tubules (from two testes from one adult animal) to 2mL tubes with 1.5mL of collagenase.
 
-4. Incubate while slowly rotating the tubes for 10 minutes. 
+4. Incubate at 37C while slowly rotating the tubes for 10 minutes. 
 
 5. Further dissociate tubules by up&down 15 times with 1mL tips. 
     > Tubules loosened up a bit by the prior 10 minutes of incubation, so you should be able to easily dissociate them. 
