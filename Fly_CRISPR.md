@@ -9,7 +9,7 @@ by Jongmin Kim (jk2938@cornell.edu). Last updated 6. 19. 2025
 - https://flycrispr.org/
 
 ### Cloning dual guideRNA expression vector (pCFD4, using dU6-1, dU6-3 promoters)
-- [General Principle](./Storage/25-0619_pCFD4-gRNA-cloning-principle.pdf) - by Jongmin Kim
+- [General Principle](../../Storage/25-0619_pCFD4-gRNA-cloning-principle.pdf) - by Jongmin Kim
 - [Original protocol](../Storage/Cloning-with-pCFD4.pdf) - by Port et al., https://crisprflydesign.org
 - [Modified protocol](../Storage/cloning_into_pcfd4_detailed.pdf) - by Ewen-Campen, Perrimon Lab, https://fgr.hms.harvard.edu/cloning-and-sequencing-0
 - I like to choose gRNAs using [CHOPCHOP](https://chopchop.cbu.uib.no/)
