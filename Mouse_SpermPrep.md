@@ -21,7 +21,7 @@ by Jongmin Kim (jk2938@cornell.edu). Last updated 5. 19. 2025
 2. Mince the tissue **10 times** using fine scissors to release sperm.  
 
 ### 2.1 Incubation and Sperm Release (non-CASA, use one cauda epididymis) 
-3. Transfer the minced tissue to a tube containing **PBS**.
+3. Transfer the minced tissue to a tube containing 1mL of **PBS**.
     > put a drop of PBS on minced tissue and aspirate to transfer. 
 4. Incubate at **37°C** for **30 minutes** with gentle rotation.  
 
