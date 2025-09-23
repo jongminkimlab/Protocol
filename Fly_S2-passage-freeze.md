@@ -87,7 +87,7 @@ To cryopreserve S2 cells so that stocks can be stored long-term and recovered la
 | Cryovials | 1.0 or 2.0 mL, sterile, labeled |
 | Centrifuge | ~500 × g |
 | Water bath | 37 °C (for thawing later) |
-| Mr. Frosty or other isopropanol freezing container | for ~ -1 °C/min cooling rate |
+| Mr. Frosty or other isopropanol freezing container or just a styroform box | for ~ -1 °C/min cooling rate |
 | -80 °C freezer |
 | Liquid nitrogen storage (long-term) | optional but preferred |
 
