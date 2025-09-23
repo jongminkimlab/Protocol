@@ -1,7 +1,7 @@
 # S2 Cell Passage
 
 **Last updated:** 2025-09-23  
-**Author:** ChatGPT, reviewed and modified by Jongmin Kim (jk2938@cornell.edu)
+**Author:** ChatGPT, reviewed and modified by Jongmin Kim (jk2938@cornell.edu), also referenced protocol by Julia Wucherpfennig.
 
 ---
 
