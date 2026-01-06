@@ -18,6 +18,17 @@ Purify DNA (genomic DNA, PCR fragments, plasmids, etc) from a crude lysate using
 - Magnetic rack
 - 1.5 mL microcentrifuge tubes or PCR tubes
 
+
+### 80% Ethanol
+- for 95% EtOH (190 proof), you can add 18.8% vol of H2O to make final 80% EtOH) <br>
+Example
+
+| 190 proof EtOH   | H2O | 
+|-----------|------------|
+| 10mL | 1.88mL        | 
+| 20mL      | 3.76mL        | 
+| 50mL      | 9.4mL       | 
+
 ---
 
 ## Protocol
