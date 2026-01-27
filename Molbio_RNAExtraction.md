@@ -1,4 +1,4 @@
-Last updated: 10. 17. 2024
+Last updated: 1. 26. 2026
 
     
 # Protocol
@@ -15,7 +15,10 @@ Last updated: 10. 17. 2024
 &nbsp;&nbsp;&nbsp;&nbsp;- You can use small (1mL) Dounce homogenizer, too.
     > (!) Thorough homogenization is critical for RNA yield for tissues.<br>
     >     Hard tissues may require grinding them in liquid nitrogen using mortar and pestle.<br>
-    >     Skip syringe homogenization step for cultured cells or already dissociated cells from tissues. Instead pipette up&down several times.
+    >     Skip syringe homogenization step for cultured cells or already dissociated cells from tissues. Instead pipette up&down several times.<br>
+    >  &nbsp;&nbsp;&nbsp;&nbsp; <br>
+    > Fly testis: assume 300~500ng total RNA / 1 pair of testis, use 500uL Trizol 23G -> 25G -> 27G (if 27G possible)
+    
 
 2. Add 100ul of chloroform (20% of original Trizol vol.). Shake vigorously for 15 seconds
  
@@ -31,7 +34,8 @@ Last updated: 10. 17. 2024
     
 
 6. Using the aqueous phase, you can either precipitate, or perform additional column based purification. 
-    > I get less RNA by going through additional column, but I think I get purer RNA using columns. Subsequent reactions work better after additional column step. 
+    > I get less RNA by going through additional column, but I think I get purer RNA using columns. <br>
+    > Subsequent reactions work better after additional column step. 
 
 ## Column based purficiation
 
