@@ -37,7 +37,7 @@ Last updated: 1. 26. 2026
     > I get less RNA by going through additional column, but I think I get purer RNA using columns. <br>
     > Subsequent reactions work better after additional column step. 
 
-## Column based purficiation
+## Column based purificiation
 
 * You can use any RNA purification columns.<br>
 
