@@ -34,7 +34,7 @@ This protocol describes how to perform Gibson Assembly using PCR-amplified inser
 
 1. Dilute Twist gene fragment to **10 ng/μL**.
 2. Set up PCR reactions using **PrimeSTAR Max Premix (2X)**:
-   - Try multiple input DNA amounts: **5 ng, 10 ng, and 20 ng**.
+   - Try multiple input DNA amounts: **0.1 ng, 0.5 ng, and 1 ng**.
    - Run a small aliquot (~5 μL) on an agarose gel to check band quality.
 3. Set up duplicate PCR reactions if you need more product.
 4. Pool and purify PCR products using a PCR cleanup kit.
