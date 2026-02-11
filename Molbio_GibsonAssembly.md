@@ -1,6 +1,6 @@
 # Gibson Assembly (NEBuilder® HiFi)
 
-**Last updated:** 2025-07-16  
+**Last updated:** 2026-02-11  
 **By:** Jongmin Kim   
 **Overview:**  
 This protocol describes how to perform Gibson Assembly using PCR-amplified inserts (e.g. from Twist gene fragments) and a restriction enzyme-digested plasmid backbone. We use NEBuilder® HiFi DNA Assembly Master Mix. You can follow the manufacturer's protocol, but here are some suggestions.
