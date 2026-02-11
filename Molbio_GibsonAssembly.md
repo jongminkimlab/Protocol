@@ -72,6 +72,7 @@ This protocol describes how to perform Gibson Assembly using PCR-amplified inser
 1. Transform 1–2 μL of Gibson reaction into 25 μL chemically competent cells.
 2. Plate on appropriate antibiotic selection plates.
 3. Optional: Plate transformation of "no-insert" control for comparison.
+      > Because the backbone contains a small amount of residual circular template plasmid, some colonies will arise from the transformation of the original plasmid w/o the insert. We want to estimate the level of background colonies derived from this template carryover.
 
 ---
 
