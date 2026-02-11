@@ -52,6 +52,8 @@ This protocol describes how to perform Gibson Assembly using PCR-amplified inser
 2. Run a small aliquot of digested and undigested plasmid side-by-side on a gel to confirm complete digestion.
 3. Purify the digested backbone.
 
+      > You can prepare the linearized backbone by PCR. Again - try multiple input DNA amounts: **0.1 ng, 0.5 ng, and 1 ng**.
+
 ---
 
 ### 3. **NEBuilder® HiFi Assembly**
