@@ -61,12 +61,12 @@ This protocol describes how to perform Gibson Assembly using PCR-amplified inser
 1. Calculate molar ratio of insert and vector (recommended 2:1 or 3:1 insert:vector).
 2. Set up 10 μL Gibson reaction:
    - x μL Insert (NEB recommends 0.03-0.2 pmols, usually we end up lower than 0.03 pmols, but for simple cloning, usually okay)
-   - y μL Vector 
+   - y μL Vector (NEB recommends 50-100ng range of vector, so b/c we do reaction in half vol., 25-50ng range -> calculate moles from here)
    - 5 μL NEBuilder® HiFi DNA Assembly Master Mix
    - ddH₂O to 10 μL total
 3. Include a **"no-insert" negative control** to assess background from uncut vector.
 4. Incubate at **50°C for 15–60 minutes**.
-
+      > Because the backbone contains a small amount of residual circular template plasmid, some colonies will arise from the transformation of the original plasmid w/o the insert. We want to estimate the level of background colonies derived from this template carryover.
 ---
 
 ### 4. **Transformation**
@@ -74,7 +74,6 @@ This protocol describes how to perform Gibson Assembly using PCR-amplified inser
 1. Transform 1–2 μL of Gibson reaction into 25 μL chemically competent cells.
 2. Plate on appropriate antibiotic selection plates.
 3. Optional: Plate transformation of "no-insert" control for comparison.
-      > Because the backbone contains a small amount of residual circular template plasmid, some colonies will arise from the transformation of the original plasmid w/o the insert. We want to estimate the level of background colonies derived from this template carryover.
 
 ---
 
@@ -90,4 +89,4 @@ This protocol describes how to perform Gibson Assembly using PCR-amplified inser
 
 ## References
 
-- [NEBuilder HiFi DNA Assembly Protocol - NEB](https://www.neb.com/protocols/2014/08/11/protocol-nebuilder-hifi-dna-assembly)
+- [NEBuilder HiFi DNA Assembly Protocol - NEB](https://www.neb.com/en-us/protocols/nebuilder-hifi-dna-assembly-reaction-protocol)) 
