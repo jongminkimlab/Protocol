@@ -81,7 +81,7 @@ This assay measures male fertility by quantifying the number of adult progeny (e
 3. For valid vials, remove all parents from the vial on Day 5 (discard or save as needed).
 
 **Why this QC rule?**
-- Missing/dead parents can strongly confound progeny counts (reduced egg-laying, remating failure, stress effects).
+- Missing/dead parents can strongly confound progeny counts (dead male cannot be fertile!, reduced the number of egg-laying females).
 
 ---
 
