@@ -119,7 +119,6 @@ Record one row per vial:
 
 ## Notes & Troubleshooting
 - **Low progeny across all genotypes**: check food quality, temperature, humidity, and CO₂ exposure during setup.
-- **High variability**: increase vial number; ensure consistent parental age and handling.
-- **Skewed sex ratios**: double-check sexing accuracy; confirm with replicate experiments.
+- **High variability**: increase vial number (N); ensure consistent parental age and handling.
 
 ---
