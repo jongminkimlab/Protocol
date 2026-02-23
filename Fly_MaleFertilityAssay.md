@@ -50,7 +50,7 @@ This assay measures male fertility by quantifying the number of adult progeny (e
 
 ### 1) Collect and age flies (3 days)
 1. Collect newly eclosed males of each genotype.
-2. Place **single males** into individual vials (or individual tubes/vials per male), and **age in isolation for 3 days**.
+2. Place **single males** into individual vials, and **age in isolation for 3 days**.
 3. Collect **OregonR virgin females** and place into vials (group-housed is fine) and **age for 3 days**.
 
 **Notes**
