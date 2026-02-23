@@ -89,9 +89,6 @@ This assay measures male fertility by quantifying the number of adult progeny (e
 1. Keep vials undisturbed until adults begin to eclose.
 2. Once eclosion starts, check vials regularly (daily if possible) until counts plateau.
 
-**Optional handling**
-- If vials become too crowded, you may transfer newly eclosed adults to a “counting” vial, but keep careful records and do not lose flies.
-
 ---
 
 ### 5) Count progeny (by sex)
