@@ -21,7 +21,7 @@ This assay measures male fertility by quantifying the number of adult progeny (e
 ### Flies
 - Males of various genotypes (experimental)
 - **OregonR virgin females** (wild-type, w1118 fine)  
- - Collect virgins within an appropriate window post-eclosion (typically within 6–8 hr; use your lab standard)
+ - Collect virgins within an appropriate window post-eclosion (typically within 6–8 hr)
 
 ### Consumables
 - **R (rich, brown) food vials** (consistent batch across genotypes if possible)
@@ -99,7 +99,7 @@ This assay measures male fertility by quantifying the number of adult progeny (e
  - Total progeny = males + females
 
 **Stopping rule**
-- Stop counting when **no new adults appear for ~2 consecutive days** (or your lab’s standard endpoint).
+- Stop counting when **no new adults appear for ~2 consecutive days**.
 
 ---
 
