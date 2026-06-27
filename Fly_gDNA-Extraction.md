@@ -32,3 +32,4 @@ from Julia Wucherpfennig, modified by Jongmin Kim. Last updated 3. 17. 2025
 6. Transfer the supernatant to a **fresh test tube**.  
 7. Store at **-20°C**.
 8. Use <1 µL for a 20 µL PCR reaction
+   > Note, more lysate is not better for PCR. Lysate has DNA + some 'stuff' that inhibits PCR reaction. Higher volume of lysate can inhibit PCR reaction.
